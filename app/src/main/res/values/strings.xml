@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scroll View Demonstration Application</string>
+    <string name="textview"><b>First</b> , you need to create your development environment so that your desktop is ready to support your Android development goals. For that, you will need Android Studio and the Android SDK. Thankfully, these both come packaged together in a single download that you can find here.\n
+Android Studio is an IDE. That stands for “integrated development environment,” which is essentially an interface where you can enter your code (primarily Java or Kotlin) and access all the different tools necessary for development. Android Studio allows you to access libraries and APIs from the Android SDK, thereby giving you access to native functions of the operating system. You’ll also be able to build your app into an APK using Gradle, test it via a “virtual device” (emulator), and debug your code while it runs.\n
+        With all that said, keep in mind that there are other options available for your Android app development. For example, Unity is a very powerful tool for cross-platform game development that also supports Android. Likewise, Visual Studio with Xamarin is an excellent combination for creating cross-platform apps in C#.\n
+
+We have a guide on how to create non-game apps in Unity and an introduction to Xamarin for cross platform Android development to help you out!\n
+
+Android Studio is the best place for most people to start (with Android game development being an exception), particularly as it provides all these additional tools and resources in a single place.\n
+
+Fortunately, set up is very simple and you only need to follow along with the instructions on the screen.\n
+
+If you need help getting set up, check out our Android Studio tutorial for beginners. And our guide on how to install the Android SDK.\n
+    Once you have Android Studio on your machine, the next step is to start a new project. This is a straightforward process, but you’ll need to make a few decisions that will impact on your Android app development going forward.\n
+    Go to File > New > New Project. You will now be asked to select a “Project Template.” This defines the code and UI elements that will be included in your new app when it loads.\n
+The word “Activity” refers to a “screen” in your app. Thus, a project with “No Activity” will be completely empty, apart from the basic file structure. A “Basic Activity” on the other hand will create a starting screen for your app and will add a button in the bottom and a hamburger menu at the top. These are common elements in many Android apps, so this can save you some time.</string>
+</resources>
